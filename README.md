@@ -1,9 +1,10 @@
 ## Role Based Access Control 
 
 ### Install
-``` git clone <> ```
 
-``` cd <> ```
+``` git clone https://github.com/harshit-paneri/role-based-auth.git ```
+
+``` cd role-based-auth ```
 
 ``` npm install ```
 
