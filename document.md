@@ -10,9 +10,3 @@
 
 - Code Structure
   - ![image](https://github.com/harshit-paneri/role-based-auth/assets/82382478/bd458bb3-bc38-4593-aab1-5f04ca158bc4)
- 
-- 
-
-
-
-
